@@ -1,6 +1,6 @@
 # shreyash2
 <html>
-   </head>
+ 
 
 
 <body>
@@ -18,5 +18,4 @@
       <a href=" https://shreyash609.github.io/shreyash1/">Play</a>
    </body>
    <html>
-     
-</head>
+
